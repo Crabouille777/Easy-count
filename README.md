@@ -28,6 +28,7 @@ Easy-count permet d’afficher un compteur de visites sur votre site WordPress, 
 - Placez le widget Easy-count dans la sidebar ou toute zone widgetisée.
 - Configurez la durée du cookie dans la page d’administration.
 - Consultez les statistiques directement dans l’interface admin.
+- Liste des bots (non exhaustive) modifiable dans le fichier functions.php , permet de ne pas incrémenter la visite des bots.
 
 ---
 
